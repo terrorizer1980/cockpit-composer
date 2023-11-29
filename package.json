@@ -16,7 +16,7 @@
     "fastclick": "1.0.6",
     "history": "3.3.0",
     "jquery": "3.5.1",
-    "patternfly-react": "1.19.1",
+    "patternfly-react": "2.40.0",
     "prop-types": "15.7.2",
     "react": "16.14.0",
     "react-dom": "16.14.0",
